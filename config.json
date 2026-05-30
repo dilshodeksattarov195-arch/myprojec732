@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncarse",
+        "uuid": 7380024,
+        "checksum": "qa5dzj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
